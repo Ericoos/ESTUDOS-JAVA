@@ -5,3 +5,5 @@
 ## *Inclusão de novo arquivo de classe para testes.*
 ## *Inclusão de pacotes.*
 ## *Comentários em Java.*
+## *Tipos Primitivos.*
+## *Casting.*

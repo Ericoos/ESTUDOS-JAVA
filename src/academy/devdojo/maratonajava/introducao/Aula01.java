@@ -1,10 +1,10 @@
-package academy.devdojo.maratonajava.introdução;
+package academy.devdojo.maratonajava.introducao;
 
 /**
  * Isso é um comentário <h1>JavaDoc</h1>
  */
 
-public class OlaDevDojo {
+public class Aula01 {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }

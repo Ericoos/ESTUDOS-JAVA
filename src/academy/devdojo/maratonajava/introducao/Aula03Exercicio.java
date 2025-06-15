@@ -10,7 +10,7 @@ public class Aula03Exercicio {
     public static void main(String[] args) {
         String nome = "Erick";
         int endereco = 467;
-        double salario = 2200.00d;
+        double salario = 2200d;
         String data = "03/06/2025";
 
         System.out.println("Eu " + nome + "," + " morando no endereço" + " " + endereco + "," + " confirmo que recebi o salário de: " + salario + " na data: " + data);

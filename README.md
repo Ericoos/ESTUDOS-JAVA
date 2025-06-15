@@ -1,4 +1,4 @@
-### *Oi eu sou o Erick.*
+### *Estudo Java*
 
 ![img.png](img.png)
 
@@ -8,3 +8,4 @@
 ## *Tipos Primitivos.*
 ## *Casting.*
 ## *String e Exercícios.*
+## *Operadores Aritméticos, Lógicos, Relacionais, Atribuição e Unários.*

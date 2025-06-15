@@ -16,8 +16,8 @@ public class Aula02PrimitivosCastingStrings {
         long number3 = 300000000000l;
         byte number4 = 127;
 
-        double number5 = 10.0d;
-        float number6 = 10.0f;
+        double number5 = 10d;
+        float number6 = 10f;
 
         char characters = 5;
 

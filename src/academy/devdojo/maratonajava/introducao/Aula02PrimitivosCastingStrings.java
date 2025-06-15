@@ -2,10 +2,14 @@ package academy.devdojo.maratonajava.introducao;
 
 /**
  * byte, short, long, int, double, float, char, boolean <-- tipos primitivos
+ * Casting
+ * Strings
  */
 
-public class Aula02TiposPrimitivos {
+public class Aula02PrimitivosCastingStrings {
     public static void main(String[] args) {
+
+        // tipos primitivos
 
         int number = 300000000;
         short number2 = 32767;
@@ -19,18 +23,25 @@ public class Aula02TiposPrimitivos {
 
         boolean cases = true;
 
-        System.out.println(characters);
-
         // casting
 
+        // casting implícito com widening
+
         int x = 5;
-        double y = 20.3;
+        long y = x;
 
-        int o = 6;
-        double p = 20.5;
+        // casting explicito com narrowing
 
-        // x = y; <-- dá erro
-        
-        System.out.println(y);
+        double o = 20.3;
+        int p = (int) o;
+
+        System.out.println(x);
+        System.out.println(p);
+
+        // string
+
+        String nome = "José";
+
+        System.out.println(nome);
     }
 }

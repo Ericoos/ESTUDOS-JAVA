@@ -7,3 +7,4 @@
 ## *Comentários em Java.*
 ## *Tipos Primitivos.*
 ## *Casting.*
+## *String e Exercícios.*

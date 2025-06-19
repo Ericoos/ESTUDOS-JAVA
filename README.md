@@ -9,3 +9,4 @@
 ## *Casting.*
 ## *String e Exercícios.*
 ## *Operadores Aritméticos, Lógicos, Relacionais, Atribuição e Unários.*
+## *Condicionais (If, Else, Else If), Escopos de Variável.*

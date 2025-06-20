@@ -43,6 +43,40 @@ public class Aula05Condicionais {
         } else {
             System.out.println("Categoria Adulto");
         }
+
+        // Operador Ternário
+
+        double salario = 900;
+        String doar = "Vou doar";
+        String naoDoar = "Não vou doar";
+        String resultado = (salario > 500) ? doar : naoDoar;
+        System.out.println(resultado);
+
+        // Exercício (Tabela Verdade)
+
+        double salarioAnual = 70000;
+        double salarioSemImposto;
+        int porcentagem;
+        double resultado1;
+
+        if (salarioAnual <= 35000) {
+            porcentagem = 10;
+            resultado1 = (salarioAnual * porcentagem) / 100;
+            salarioSemImposto = salarioAnual - resultado1;
+
+        } else if ( salarioAnual >= 35000 && salarioAnual <= 68000) {
+            porcentagem = 38;
+            resultado1 = (salarioAnual * porcentagem) / 100;
+            salarioSemImposto = salarioAnual - resultado1;
+
+        } else {
+            porcentagem = 50;
+            resultado1 = (salarioAnual * porcentagem) / 100;
+            salarioSemImposto = salarioAnual - resultado1;
+        }
+
+        System.out.println("O seu salário após pagar os impostos é de: " + salarioSemImposto);
+
     }
 }
 

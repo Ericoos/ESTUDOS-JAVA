@@ -77,6 +77,66 @@ public class Aula05Condicionais {
 
         System.out.println("O seu salário após pagar os impostos é de: " + salarioSemImposto);
 
+        // Switch
+
+        int dia = 55;
+
+        switch (dia) {
+            case 1:
+                System.out.println("Domingo");
+                break; // Interrompe o switch após achar o valor
+            case 2:
+                System.out.println("Segunda");
+                break;
+            case 3:
+                System.out.println("Terça");
+                break;
+            case 4:
+                System.out.println("Quarta");
+                break;
+            case 5:
+                System.out.println("Quinta");
+                break;
+            case 6:
+                System.out.println("Sexta");
+                break;
+            case 7:
+                System.out.println("Sábado");
+                break;
+
+            default: System.out.println("Opção Inválida"); // Se nenhum valor de case for válido
+            break;
+        }
+
+        // Exercício Switch
+
+        int diaSemana = 7;
+
+        switch (diaSemana) {
+            default:
+                System.out.println("Dia Inválido");
+            case 1:
+                System.out.println("Fim de Semana");
+                break;
+            case 2:
+                System.out.println("Dia Útil");
+                break;
+            case 3:
+                System.out.println("Dia Útil");
+                break;
+            case 4:
+                System.out.println("Dia Útil");
+                break;
+            case 5:
+                System.out.println("Dia Útil");
+                break;
+            case 6:
+                System.out.println("Dia Útil");
+                break;
+            case 7:
+                System.out.println("Fim de Semana");
+                break;
+        }
     }
 }
 

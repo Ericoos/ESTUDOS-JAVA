@@ -11,3 +11,4 @@
 ## *Operadores Aritméticos, Lógicos, Relacionais, Atribuição e Unários.*
 ## *Condicionais (If, Else, Else If), Escopos de Variável.*
 ## *Operador Ternário e Exercícios.*
+## *Estruturas de Repetição.*

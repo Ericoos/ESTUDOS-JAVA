@@ -12,3 +12,4 @@
 ## *Condicionais (If, Else, Else If), Escopos de Variável.*
 ## *Operador Ternário e Exercícios.*
 ## *Estruturas de Repetição.*
+## *Break.*

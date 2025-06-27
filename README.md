@@ -13,3 +13,4 @@
 ## *Operador Ternário e Exercícios.*
 ## *Estruturas de Repetição.*
 ## *Break.*
+## *Continue.*

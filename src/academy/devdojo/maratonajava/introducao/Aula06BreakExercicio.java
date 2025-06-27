@@ -29,11 +29,14 @@ public class Aula06BreakExercicio {
                 if (valorParcela < 1000) {
                     break;
                 }
-
-                System.out.println("O carro pode ser feito em até: " + parcela + " vezes de: " + valorParcela + " sem juros.");
         }
 
+        for (int i2 = 0; i2 <= 10; i2++) {
+            if (i2 == 2) {
+                continue;
+            }
 
-
+            System.out.println("O número é: " + i2);
+        }
     }
 }

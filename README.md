@@ -14,3 +14,4 @@
 ## *Estruturas de Repetição.*
 ## *Break.*
 ## *Continue.*
+## *Arrays.*

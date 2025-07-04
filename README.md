@@ -14,4 +14,5 @@
 ## *Estruturas de Repetição.*
 ## *Break.*
 ## *Continue.*
-## *Arrays.*
+## *Arrays Unidimensionais.*
+## *Foreach e Exercícios.*

@@ -25,7 +25,18 @@ public class ExercicioMatrizes {
             }
         }
 
-        System.out.println(soma);
-        System.out.println(pares);
+        // System.out.println(soma);
+        // System.out.println(pares);
+
+        int num[][] = new int[4][];
+        num[0] = new int[]{1,2,3};
+        num[1] = new int[3];
+        num[2] = new int[3];
+
+        for (int[] linhas : num) {
+            for (int elementos : linhas) {
+                System.out.println(elementos);
+            }
+        }
     }
 }

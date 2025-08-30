@@ -16,3 +16,5 @@
 ## *Continue.*
 ## *Arrays Unidimensionais.*
 ## *Foreach e Exercícios.*
+## *Matriz.*
+## *Exercícios de Fechamento de Ciclo Básico.*
